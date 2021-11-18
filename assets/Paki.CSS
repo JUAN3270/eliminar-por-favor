@@ -1,0 +1,45 @@
+body {
+    background: url(Campo.png);
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+
+  }
+  h1  {
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    -webkit-text-stroke: 1px blue;
+    font-size: 4.3em;
+    color: #f8bb02;
+  }
+  div {
+    background: rgba(255, 255, 255, 0.5);
+    color: black;
+    height: 500px;
+    width: 400px;
+    font-size: 20px;
+    float: left;
+    margin-left: 50px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  table{
+      border-collapse: collapse;
+      width: auto;
+      margin: auto;
+  }
+  td, th {
+      border: 1px black;
+      padding:2px;
+      text-align: left;
+  
+  }
+  img {
+    width: 200px;
+    height: 200px;
+  }
+  h2.cabeceraCajas {
+    font-weight: bold;
+  };
