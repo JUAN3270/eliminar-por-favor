@@ -13,7 +13,7 @@ imagenes["Broly"] = "Broly.png";
 
 var coleccion = [];
 
-coleccion.push(new Pakiman("Goku", 200, 150));
+coleccion.push(new Pakiman("Goku", 200, 150, ));
 coleccion.push(new Pakiman("Vegueta", 160, 80));
 coleccion.push(new Pakiman("Gohan", 130, 70));
 coleccion.push(new Pakiman("Majimbu", 220, 90));
